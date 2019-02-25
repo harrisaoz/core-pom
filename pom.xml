@@ -6,7 +6,7 @@
 
     <groupId>au.id.ah</groupId>
     <artifactId>core-pom</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
@@ -19,7 +19,5 @@
 
         <junit.version>4.12</junit.version>
         <appassembler-plugin.version>2.0.0</appassembler-plugin.version>
-
-        <exceptional-functionals.version>1.0-SNAPSHOT</exceptional-functionals.version>
     </properties>
 </project>
